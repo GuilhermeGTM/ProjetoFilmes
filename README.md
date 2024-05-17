@@ -23,11 +23,12 @@ O projeto consiste é um site de cadastro de filmes, onde o ADM pode cadastrar, 
 
 # Tecnologias utilizadas
 ## Back end
--PHP
+- PHP
 ## Front end
--CSS
--PHP
--HTML
+- CSS
+- PHP
+- Bootstrap v3.3.5
+
 ## Implantação em produção
 
 
