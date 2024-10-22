@@ -26,8 +26,11 @@ O projeto consiste é um site de cadastro de filmes, onde o ADM pode cadastrar, 
 - PHP
 ## Front end
 - CSS
-- PHP
+- HTML
+## Framework
 - Bootstrap v3.3.5
+# DB
+- Mysql
 
 ## Implantação em produção
 
