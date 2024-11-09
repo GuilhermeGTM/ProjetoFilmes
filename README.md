@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto consiste é um site de cadastro de filmes, onde o ADM pode cadastrar, consultar, remover. O usuario pode votar nos filmes e consultar quem foi mais votado.
+O projeto consiste em cadastros de filmes, onde o ADM pode cadastrar, consultar, remover. O usuario pode votar nos filmes e consultar quem foi mais votado.
 
 ## Layout web
 ![Web 1](https://github.com/GuilhermeGTM/ProjetoFilmes/blob/main/demo/acesso.png)
