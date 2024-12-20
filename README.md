@@ -29,6 +29,7 @@ O projeto consiste em cadastros de filmes, onde o ADM pode cadastrar, consultar,
 ## Front end
 - CSS
 - HTML
+- JavaScript
 
 ## Framework
 - Bootstrap v3.3.5
